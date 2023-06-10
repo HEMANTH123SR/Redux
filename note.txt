@@ -12,3 +12,22 @@ when to use Redux ?
 
 => Big Application
 => High frequency of state Changes
+
+
+---------------terms---------------
+
+Store
+
+State
+
+Action 
+
+_ Type
+
+_ Payload
+
+_ Dispatch 
+
+Middlewares
+
+Reducer
