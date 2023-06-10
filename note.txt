@@ -1,0 +1,14 @@
+what is Redux ?
+
+=> A Pattern
+=> A Library
+=> independent of framework
+
+why Redux ?
+
+=>it makes handling state were easy by provind a Global state
+
+when to use Redux ?
+
+=> Big Application
+=> High frequency of state Changes
